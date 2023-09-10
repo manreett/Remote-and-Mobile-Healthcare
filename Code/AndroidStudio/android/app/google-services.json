@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941028164764",
+    "project_id": "greaterhealth-c7128",
+    "storage_bucket": "greaterhealth-c7128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941028164764:android:babccb2f9f3f4bb87e5959",
+        "android_client_info": {
+          "package_name": "com.example.greaterhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941028164764-64i7g5si2ccu2e0glakrf9nloii2r0ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_GDelinFX82VAOGJNenRDCJsEkqUIoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941028164764-64i7g5si2ccu2e0glakrf9nloii2r0ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
