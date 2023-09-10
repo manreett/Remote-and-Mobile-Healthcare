@@ -37,14 +37,7 @@ The primary goal is to create a mobile medical monitoring system using an Arduin
 - Digital Ocean Cloud Hosting Service
 - MySQL Database
 - Android Studio for Android Application Development
+- PHP Scripts for API endpoints
 
 The proposed solution involves both hardware and software components. The Arduino unit serves as the primary data collection and transmission source, sending data to the MySQL database via WiFi. The Digital Ocean Cloud Hosting Service hosts the MySQL data and facilitates API requests to retrieve sensor data from the Arduino. The data is then sent to the mobile application using API endpoints. Users can access real-time data updates, and administrators have access to a dashboard for direct data viewing.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/remote-healthcare-monitoring.git
